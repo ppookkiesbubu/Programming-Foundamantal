@@ -16,8 +16,5 @@ int main(){
     {
         printf("%d %d",b,c);
     }
-    
-    
-    
     return 0;
 }
