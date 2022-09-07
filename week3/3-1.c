@@ -16,5 +16,9 @@ int main(){
     {
         printf("%d %d",b,c);
     } 
+    else if (a+b == a+c || b+c == b+a)
+    {
+        printf("All Three Numbers are equal.");
+    }
     return 0;
 }

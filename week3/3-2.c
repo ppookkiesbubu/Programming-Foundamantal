@@ -16,5 +16,9 @@ int main(){
     {
         printf("%d %d",b,c);
     }
+    else if (a == b && a==c )
+    {
+        printf("All Three Numbers are equal.");
+    }
     return 0;
 }

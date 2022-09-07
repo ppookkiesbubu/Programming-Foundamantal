@@ -33,17 +33,9 @@ int main(){
     {
         printf("D");
     }
-    else if (a+b+c<=49)
+    else
     {
         printf("F");
-    }
-    
-    
-    
-    
-    
-    
-    
-    
+    } 
     return 0;
 }

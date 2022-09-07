@@ -6,7 +6,7 @@ int main()
     scanf("%d", &a);
     for (int i = 1; i > 0; i++)
     {
-         if (a == 2 || a == 3 || a == 5)
+         if (a == 2 || a == 3 || a == 5 || a == 7)
         {
             break;
         }
@@ -21,7 +21,7 @@ int main()
         }
     }
 
-    printf("%d", a);
+    printf("%d is Prime Number . ", a);
 
     return 0;
 }

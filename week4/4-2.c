@@ -28,7 +28,7 @@ int main(){
     scanf("%d",&a);
     scanf("%d",&b);
     scanf("%d",&c);
-     if (a+b+c>=80 && a+b+c<=100)
+    if (a+b+c>=80 && a+b+c<=100)
     {
         AA();
     }
