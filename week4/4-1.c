@@ -36,6 +36,10 @@ int main(){
     else
     {
         printf("F");
+<<<<<<< HEAD
     } 
+=======
+    }
+>>>>>>> 6d9bb127ae58f87ecbf45e2425bc3b16737bc1e3
     return 0;
 }
