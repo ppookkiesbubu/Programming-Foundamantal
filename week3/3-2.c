@@ -20,5 +20,17 @@ int main(){
     {
         printf("All Three Numbers are equal.");
     }
+    else if (a==b && a<c)
+    {
+        printf("%d %d",a,c);
+    }
+    else if (a==c && a<b)
+    {
+        printf("%d %d",a,b);
+    }
+    else if (b==c && b<a)
+    {
+        printf("%d %d",b,a);
+    } 
     return 0;
 }
