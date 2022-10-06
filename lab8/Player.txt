@@ -1,0 +1,11 @@
+Name : kyky
+Level : 3
+Score : 100Name : bobo
+Level : 4
+Score : 100Name : pw
+Level : 7
+Score : 40Name : pat
+Level : 6
+Score : 100Name : tai
+Level : 4
+Score : 800
